@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 94,
+    "uniqCompNum": 95,
     "versionPublish": "4.4.0",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -233,7 +233,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -362,7 +362,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -689,7 +689,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -918,7 +918,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -1048,7 +1048,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -1283,7 +1283,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -1515,7 +1515,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -1586,8 +1586,8 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButton": false,
+            "showText": false,
+            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -1605,7 +1605,7 @@
           },
           "title": "Cómic",
           "text": "<p>Espéralo, detalles impactantes que te dejaran con muchas mas preguntas.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER AHORA</a>",
           "_tags": [
             "Theme"
           ],
@@ -1799,7 +1799,7 @@
               "loop": false
             }
           },
-          "text": "Caso 1105: Ana",
+          "text": "<a href=\"https://www.youtube.com/watch?v=DU-aEJkBKQY&amp;t=4s\" target=\"_blank\">Caso 1105: Ana</a>",
           "_tags": [
             "Theme"
           ],
@@ -1856,6 +1856,40 @@
           ],
           "_name": "form2",
           "_anchor": "form2-20"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cc-by-nc-sa-euro-icon.svg-2000x700.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CREATIVE COMMONS<br><br>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2m"
         }
       ]
     }

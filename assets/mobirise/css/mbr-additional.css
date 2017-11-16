@@ -935,6 +935,7 @@ h6,
 #msg-box3-1k .lead P {
   text-align: right;
 }
+
 #footer1-2 P {
   color: #ffffff;
 }
@@ -1038,6 +1039,10 @@ h6,
 #social-buttons2-k .mbr-section-title,
 #social-buttons2-k .btn-social {
   color: #232323;
+}
+#video2-2l DIV {
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
 }
 #form2-20 .mbr-section-title {
   color: #fff;

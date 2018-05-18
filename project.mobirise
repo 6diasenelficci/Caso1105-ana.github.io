@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
-        "successColor": "#e25041",
+        "successColor": "#fac51c",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -26,14 +26,19 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 95,
-    "versionPublish": "4.4.0",
-    "siteUrl": "",
+    "uniqCompNum": 101,
+    "versionPublish": "4.7.2",
+    "siteUrl": "https://caso1105-ana.github.io/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "",
-    "google-analytics": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "historia.html": {
@@ -153,7 +158,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "text": "Copyright (c) 2017 Mobirise.",
           "_anchor": "footer1-1v",
           "_styles": {
             "P": {
@@ -170,7 +175,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -236,7 +243,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
@@ -252,7 +259,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -282,7 +289,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "text": "Copyright (c) 2017 Mobirise.",
           "_anchor": "footer1-q",
           "_styles": {
             "P": {
@@ -299,7 +306,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -365,7 +374,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
@@ -382,7 +391,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -609,7 +618,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "text": "Copyright (c) 2017 Mobirise.",
           "_anchor": "footer1-s",
           "_styles": {
             "P": {
@@ -626,7 +635,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -692,7 +703,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
@@ -709,7 +720,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -814,7 +825,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "text": "Copyright (c) 2017 Mobirise.",
           "_anchor": "footer1-u",
           "_styles": {
             "P": {
@@ -855,7 +866,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -921,7 +934,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
@@ -938,7 +951,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -968,7 +981,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "text": "Copyright (c) 2017 Mobirise.",
           "_anchor": "footer1-w",
           "_styles": {
             "P": {
@@ -985,7 +998,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1051,7 +1066,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
@@ -1068,7 +1083,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -1203,7 +1218,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "text": "Copyright (c) 2017 Mobirise.",
           "_anchor": "footer1-y",
           "_styles": {
             "P": {
@@ -1220,7 +1235,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1286,7 +1303,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
@@ -1303,7 +1320,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -1422,37 +1439,14 @@
       },
       "components": [
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 TellMeMoreStories",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1518,13 +1512,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"historia.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susi.html\" target=\"_blank\">Susi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-2l\">CORTOMETRAJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.pixton.com/es/comic/wz4n1d87\" target=\"_blank\">CÓMIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-2-mesa-de-trabajo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-g",
               "title": "",
-              "active": true,
-              "linkInNewWindow": false
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1534,7 +1527,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pics Design</a>",
           "_tags": [
             "Theme"
           ],
@@ -1724,7 +1717,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"ana.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS&nbsp;</a>",
           "button2": "<a data-app-btn=\"true\" href=\"susi.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"lily.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"lily.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a> ",
           "button4": "<a data-app-btn=\"true\" href=\"julio.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
           "button5": "<a data-app-btn=\"true\" href=\"carmen.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1890,6 +1883,26 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-2m"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Mobirise.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2o"
         }
       ]
     }

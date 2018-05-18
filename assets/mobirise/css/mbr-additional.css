@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -79,7 +80,7 @@ h6,
   background-color: #c0a375 !important;
 }
 .bg-success {
-  background-color: #e25041 !important;
+  background-color: #fac51c !important;
 }
 .bg-info {
   background-color: #7e9b9f !important;
@@ -151,8 +152,8 @@ h6,
   border-color: #597478 !important;
 }
 .btn-success {
-  background-color: #e25041;
-  border-color: #e25041;
+  background-color: #fac51c;
+  border-color: #fac51c;
   color: #ffffff;
 }
 .btn-success:hover,
@@ -161,14 +162,14 @@ h6,
 .btn-success:active,
 .btn-success.active {
   color: #ffffff;
-  background-color: #ba2b1c;
-  border-color: #ba2b1c;
+  background-color: #c59704;
+  border-color: #c59704;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #ba2b1c !important;
-  border-color: #ba2b1c !important;
+  background-color: #c59704 !important;
+  border-color: #c59704 !important;
 }
 .btn-warning {
   background-color: #f3c649;
@@ -272,8 +273,8 @@ h6,
 }
 .btn-success-outline {
   background: none;
-  border-color: #a42619;
-  color: #a42619;
+  border-color: #ac8404;
+  color: #ac8404;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -281,14 +282,14 @@ h6,
 .btn-success-outline:active,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #e25041;
-  border-color: #e25041;
+  background-color: #fac51c;
+  border-color: #fac51c;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #e25041 !important;
-  border-color: #e25041 !important;
+  background-color: #fac51c !important;
+  border-color: #fac51c !important;
 }
 .btn-warning-outline {
   background: none;
@@ -334,7 +335,7 @@ h6,
   color: #c0a375 !important;
 }
 .text-success {
-  color: #e25041 !important;
+  color: #fac51c !important;
 }
 .text-info {
   color: #7e9b9f !important;
@@ -346,7 +347,7 @@ h6,
   color: #f28281 !important;
 }
 .alert-success {
-  background-color: #e25041;
+  background-color: #fac51c;
 }
 .alert-info {
   background-color: #7e9b9f;
@@ -391,7 +392,7 @@ h6,
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #fdf3f2;
+  color: #fef8e4;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -410,7 +411,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #content5-1y .mbr-section-title,
 #content5-1y p {
@@ -438,6 +439,7 @@ h6,
 }
 #menu-1w .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-1w .navbar-toggler {
   color: #ffffff;
@@ -500,6 +502,7 @@ h6,
 #menu-1w .close-icon::after {
   background-color: #ffffff;
 }
+
 #footer1-q P {
   color: #ffffff;
 }
@@ -511,6 +514,7 @@ h6,
 }
 #menu-r .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-r .navbar-toggler {
   color: #ffffff;
@@ -586,6 +590,7 @@ h6,
 #msg-box3-12 .lead P {
   text-align: left;
 }
+
 #header1-17 .mbr-section-lead {
   text-align: left;
   color: #000000;
@@ -609,6 +614,7 @@ h6,
 }
 #menu-t .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-t .navbar-toggler {
   color: #ffffff;
@@ -671,6 +677,7 @@ h6,
 #menu-t .close-icon::after {
   background-color: #ffffff;
 }
+
 #header1-1d .mbr-section-title {
   color: #000000;
 }
@@ -695,6 +702,7 @@ h6,
 }
 #menu-v .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-v .navbar-toggler {
   color: #ffffff;
@@ -759,6 +767,7 @@ h6,
 }
 
 
+
 #footer1-w P {
   color: #ffffff;
 }
@@ -770,6 +779,7 @@ h6,
 }
 #menu-x .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-x .navbar-toggler {
   color: #ffffff;
@@ -849,6 +859,7 @@ h6,
 #msg-box3-1h .lead P {
   text-align: left;
 }
+
 #footer1-y P {
   color: #ffffff;
 }
@@ -860,6 +871,7 @@ h6,
 }
 #menu-z .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-z .navbar-toggler {
   color: #ffffff;
@@ -936,17 +948,13 @@ h6,
   text-align: right;
 }
 
-#footer1-2 P {
-  color: #ffffff;
-}
-#footer1-2 B {
-  color: #ffffff;
-}
+
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-8 .navbar-caption {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-8 .navbar-toggler {
   color: #ffffff;
